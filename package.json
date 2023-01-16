@@ -7,7 +7,7 @@
     "scripts": {
         "start": "node server.js"
     },
-    "autor": "",
+    "autor": "Caio Cassiano",
     "license": "ISC",
     "dependencies" : {
         "json-server": "^0.17.1"
